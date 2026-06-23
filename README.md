@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Funnel & Customer Analytics Using SQL POWER BI 
+# 🛒 E-Commerce Funnel  Analytics || SQL POWER BI 
 
 
 ## 📊 Project Overview
