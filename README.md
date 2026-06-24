@@ -34,25 +34,14 @@ The project focuses on understanding the complete customer journey from product 
 
 
 ---
+
 ## 📂 Dataset
 
-The dataset used in this project was sourced from Kaggle and contains synthetic e-commerce transaction and clickstream data, including customer profiles, sessions, events, orders, order items, products, and reviews. The dataset is designed for practicing analytics, funnel analysis, customer behavior analysis, retention analysis, and business intelligence projects. :contentReference[oaicite:0]{index=0}
+The dataset used in this project was sourced from Kaggle.
 
-**Dataset Link:**
+Dataset Link:
+https://www.kaggle.com/code/wafaaelhusseini/eda-e-commerce-transactions-clickstream/input?select=sessions.csv
 
-:contentReference[oaicite:1]{index=1}
-
-## 🗂️ Database Schema
-
-The project consists of the following tables:
-
-- **Customers** – Stores customer demographic and registration information.
-- **Sessions** – Tracks customer sessions, devices, and traffic sources.
-- **Events** – Captures user interactions such as product views, add-to-cart actions, checkouts, and purchases.
-- **Orders** – Contains order-level transaction details.
-- **Order_Items** – Stores product-level details for each order.
-- **Products** – Contains product information, pricing, costs, and profit margins.
-- **Reviews** – Stores customer ratings and product feedback.
 
 
 
