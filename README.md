@@ -476,4 +476,15 @@ SELECT
     ) AS bounce_rate
 FROM session_events;
 ```
+## 📈 Business Insights
 
+- The platform generated **$4.49M in total sales** from customer purchases.
+- The overall **conversion rate was 27.98%**, indicating that nearly 28% of visitors completed a purchase.
+- The **drop-off rate of 72.02%** highlights a significant loss of users before reaching the final purchase stage.
+- The **cart abandonment rate reached 58.81%**, suggesting many users added products to their cart but did not complete checkout.
+- Out of **120,000 product views**, approximately **33,580 purchases** were completed through the funnel.
+- **Mobile devices generated the highest revenue**, making mobile users the most valuable customer segment.
+- **Organic traffic was the largest revenue source**, followed by direct traffic, indicating strong organic acquisition performance.
+- The largest decline in the funnel occurred between the **Add-to-Cart** and **Purchase** stages, representing an opportunity to optimize the checkout process.
+- Revenue contribution varied significantly across traffic sources, highlighting the importance of channel performance analysis.
+- Funnel metrics suggest that improving checkout experience and reducing cart abandonment could significantly increase conversions and revenue.
