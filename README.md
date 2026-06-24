@@ -34,6 +34,13 @@ The project focuses on understanding the complete customer journey from product 
 
 
 ---
+## 📂 Dataset
+
+The dataset used in this project was sourced from Kaggle and contains synthetic e-commerce transaction and clickstream data, including customer profiles, sessions, events, orders, order items, products, and reviews. The dataset is designed for practicing analytics, funnel analysis, customer behavior analysis, retention analysis, and business intelligence projects. :contentReference[oaicite:0]{index=0}
+
+**Dataset Link:**
+
+:contentReference[oaicite:1]{index=1}
 
 ## 🗂️ Database Schema
 
