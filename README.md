@@ -461,3 +461,23 @@ ON p.product_id = r.product_id
 GROUP BY p.category
 ORDER BY avg_rating DESC;
 ```
+### 38. What is the Bounce Rate?
+** What percentage of sessions leave the website after only one interaction without progressing further into the customer journey?
+```sql
+WITH session_events AS (
+    SELECT
+        session_id,
+        COUNT(*) AS event_count
+    FROM events
+    GROUP BY session_id
+)
+SELECT
+    ROUND(
+        100.0 *
+        COUNT(CASE WHEN event_count = 1 THEN 1 END)
+        / COUNT(*),
+        2
+    ) AS bounce_rate
+FROM session_events;
+```
+
