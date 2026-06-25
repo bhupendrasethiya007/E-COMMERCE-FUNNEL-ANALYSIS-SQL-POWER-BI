@@ -476,6 +476,11 @@ SELECT
     ) AS bounce_rate
 FROM session_events;
 ```
+## 📸 Dashboard Preview
+
+<p align="center">
+  <img src="Dashboard.jpg" width="1000">
+</p>
 ## 📈 Business Insights
 
 - The platform generated **$4.49M in total sales** from customer purchases.
